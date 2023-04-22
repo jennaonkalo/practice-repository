@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Hello from feature/create-awesome")
+print("Hello from feature")
